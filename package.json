@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "Mudunuri Bhaskara Karthikeya Varma <karthikmudunuri999@gmail.com>",
+  "author": "Issam aboulfadl <Issam.aboulfadl05@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "clsx": "^2.1.1",
